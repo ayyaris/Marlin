@@ -28,6 +28,8 @@
   #include "pins_GEN7_13.h"
 #elif MB(GEN7_14)
   #include "pins_GEN7_14.h"
+#elif MB(GT2560)
+  #include "pins_GT2560.h"  
 #elif MB(CHEAPTRONIC)
   #include "pins_CHEAPTRONIC.h"
 #elif MB(SETHI)
